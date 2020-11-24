@@ -1,6 +1,6 @@
 "use strict";
 
-var CACHE_NAME = 'ginkopwa';
+var CACHE_NAME = 'ginkopwa-v1';
 
 var contentToCache = [
   './index.html',    
