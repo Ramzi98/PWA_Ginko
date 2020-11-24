@@ -4,58 +4,58 @@
     "description": "Consultation des horaires de bus Ginko de Besançon",
     "icons": [
       {
-        "src": "/PWA_Ginko/tree/main/iconsicons/favicon.ico",
+        "src": "/icons/favicon.ico",
         "type": "image/x-icon",
         "sizes": "48x48"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-32.png",
+        "src": "/icons/icon-32.png",
         "type": "image/png",
         "sizes": "32x32"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-64.png",
+        "src": "/icons/icon-64.png",
         "type": "image/png",
         "sizes": "64x64"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-96.png",
+        "src": "/icons/icon-96.png",
         "type": "image/png",
         "sizes": "96x96"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-128.png",
+        "src": "/icons/icon-128.png",
         "type": "image/png",
         "sizes": "128x128"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-168.png",
+        "src": "/icons/icon-168.png",
         "type": "image/png",
         "sizes": "168x168"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-180.png",
+        "src": "/icons/icon-180.png",
         "type": "image/png",
         "sizes": "180x180"
       },
 
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-192.png",
+        "src": "/icons/icon-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-256.png",
+        "src": "/icons/icon-256.png",
         "type": "image/png",
         "sizes": "256x256"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/icon-512.png",
+        "src": "/icons/icon-512.png",
         "type": "image/png",
         "sizes": "512x512"
       },
       {
-        "src": "/PWA_Ginko/tree/main/icons/maskable_icon.png",
+        "src": "/icons/maskable_icon.png",
         "type": "image/png",
         "sizes": "274x274"
       }
